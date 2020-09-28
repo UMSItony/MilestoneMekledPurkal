@@ -17,4 +17,4 @@
   - state_orders.html (HTML scraped using BeautifulSoup package from https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic)
   - PPP_Report_Public - 2020-08-01-508.pdf (downloaded PDF file from government website with summaries of economic stimulus loan disbursements)
   - sbappptable.csv (raw tabular data extracted from government website PDF using tabula-py package)
-  - TweetData-sample.csv (100-row sample of web-scraped COVID-19 Tweets donwloaded from Kaggle)
+  - TweetData-sample.csv (100-row sample of web-scraped COVID-19 Tweets donwloaded from Kaggle: https://www.kaggle.com/smid80/coronavirus-covid19-tweets Late March, https://www.kaggle.com/smid80/coronavirus-covid19-tweets-early-april Early April, https://www.kaggle.com/smid80/coronavirus-covid19-tweets-late-april Late April)
