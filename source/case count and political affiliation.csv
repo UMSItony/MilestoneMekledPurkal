@@ -1,0 +1,52 @@
+abb,state,Total Cases,Total Deaths,FIPS,subjectivity,polarity,color,affiliation
+AK,Alaska,6743,45,2,0.36,0.1,Red,Republican
+AL,Alabama,144164,2437,1,0.35,0.12,Red,Republican
+AR,Arkansas,75160,1181,5,0.36,0.07,Red,Republican
+AZ,Arizona,213551,5467,4,0.37,0.09,Red,Republican
+CA,California,774135,14912,6,0.36,0.08,Blue,Democrat
+CO,Colorado,64356,2013,8,0.38,0.09,Blue,Democrat
+CT,Connecticut,55527,4492,9,0.37,0.09,Blue,Democrat
+DC,District of Columbia,14902,619,11,0.38,0.09,Blue,Democrat
+DE,Delaware,19449,621,10,0.36,0.09,Blue,Democrat
+FL,Florida,673194,13287,12,0.35,0.08,Red,Republican
+GA,Georgia,305021,6599,13,0.34,0.08,Red,Republican
+HI,Hawaii,11485,120,15,0.36,0.08,Blue,Democrat
+IA,Iowa,79384,1264,19,0.37,0.07,Red,Republican
+ID,Idaho,37247,441,16,0.38,0.08,Red,Republican
+IL,Illinois,275054,8672,17,0.37,0.1,Blue,Democrat
+IN,Indiana,110759,3503,18,0.36,0.08,Red,Republican
+KS,Kansas,52285,596,20,0.38,0.06,Red,Republican
+KY,Kentucky,61106,1108,21,0.38,0.08,Red,Republican
+LA,Louisiana,161322,5340,22,0.38,0.1,Red,Republican
+MA,Massachusetts,135035,9293,25,0.37,0.1,Blue,Democrat
+MD,Maryland,120156,3879,24,0.37,0.1,Blue,Democrat
+ME,Maine,5079,140,23,0.38,0.07,Blue,Democrat
+MI,Michigan,128087,6969,26,0.37,0.11,Red,Republican
+MN,Minnesota,88721,2015,27,0.37,0.08,Blue,Democrat
+MO,Missouri,111516,1793,29,0.38,0.11,Red,Republican
+MS,Mississippi,93364,2810,28,0.35,0.08,Red,Republican
+MT,Montana,10300,157,30,0.36,0.05,Red,Republican
+NC,North Carolina,192248,3235,37,0.37,0.1,Red,Republican
+ND,North Dakota,17958,192,38,0.42,0.13,Red,Republican
+NE,Nebraska,40797,442,31,0.35,0.09,Red,Republican
+NH,New Hampshire,7920,438,33,0.29,0.06,Blue,Democrat
+NJ,New Jersey,199309,16064,34,0.39,0.1,Blue,Democrat
+NM,New Mexico,27512,847,35,0.38,0.07,Blue,Democrat
+NV,Nevada,75607,1569,32,0.35,0.08,Blue,Democrat
+NY,New York,209240,9014,36,0.38,0.09,Blue,Democrat
+OH,Ohio,143547,4612,39,0.35,0.08,Red,Republican
+OK,Oklahoma,82018,955,40,0.37,0.07,Red,Republican
+OR,Oregon,30599,525,41,0.36,0.09,Blue,Democrat
+PA,Pennsylvania,149845,7956,42,0.37,0.09,Red,Republican
+RI,Rhode Island,23620,1088,44,0.39,0.09,Blue,Democrat
+SC,South Carolina,137240,3188,45,0.35,0.08,Red,Republican
+SD,South Dakota,18444,200,46,0.36,0.09,Red,Republican
+TN,Tennessee,181439,2216,47,0.36,0.09,Red,Republican
+TX,Texas,686068,14848,48,0.36,0.09,Red,Republican
+UT,Utah,63538,439,49,0.38,0.12,Red,Republican
+VA,Virginia,140512,3015,51,0.37,0.09,Blue,Democrat
+VT,Vermont,1710,58,50,0.3,0.12,Blue,Democrat
+WA,Washington,82199,2037,53,0.38,0.1,Blue,Democrat
+WI,Wisconsin,105557,1249,55,0.36,0.08,Red,Republican
+WV,West Virginia,13874,308,54,0.35,0.08,Red,Republican
+WY,Wyoming,4780,49,56,0.3,0.04,Red,Republican
