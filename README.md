@@ -13,3 +13,4 @@
   - Statistical Sentiment Analysis for Tweets-Final.ipynb (notebook for determining polarity/subjectivity of Tweets)
   - statecolor.csv (data scraped from Red states and blue states, https://en.wikipedia.org/wiki/Red_states_and_blue_states for project report interactive Plotly Case/Count map)
   - case count and political affiliation.csv (source data for project report interactive Plotly Case/Count map)
+  - state_orders.html (HTML scraped using BeautifulSoup package from https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic)
