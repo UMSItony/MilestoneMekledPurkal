@@ -4,6 +4,7 @@
 ### Fall 2020
 
 - Project report contained in MekledPurkalMilestone.pdf
+- Political Map of COVID-19 Cases and Deaths.html (interactive Plotly map of red/blue states and COVID-19 Cases/Deaths, also available at: https://drive.google.com/file/d/1PTGBkAYhMTG4hxPv9sUd5xyNq16yPLNn/view?usp=sharing)
 - source/ contains:
   - AnalysisVizMekledPurkal.ipynb (this is the "master" notebook where all data was joined together, analyzed, and visualized)
   - COVID_sample.json (100-row sample of Yelp COVID-19 addendum dataset, available at http://www.yelp.com/dataset)
