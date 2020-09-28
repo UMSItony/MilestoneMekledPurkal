@@ -18,3 +18,4 @@
   - PPP_Report_Public - 2020-08-01-508.pdf (downloaded PDF file from government website with summaries of economic stimulus loan disbursements)
   - sbappptable.csv (raw tabular data extracted from government website PDF using tabula-py package)
   - TweetData-sample.csv (100-row sample of web-scraped COVID-19 Tweets donwloaded from Kaggle: https://www.kaggle.com/smid80/coronavirus-covid19-tweets Late March, https://www.kaggle.com/smid80/coronavirus-covid19-tweets-early-april Early April, https://www.kaggle.com/smid80/coronavirus-covid19-tweets-late-april Late April)
+  - Tweet_Text_Sentiment_data_average.csv (Sentiment polarity/subjectivity data grouped by state)
