@@ -1,5 +1,7 @@
-# Mekled & Purkal Milestone I Project, Master of Applied Data Science, University of Michigan School of Information
-## Fall 2020
+# Mekled & Purkal Milestone I Project
+## Master of Applied Data Science
+## University of Michigan School of Information
+### Fall 2020
 MADS Milestone I Mekled, Purkal Project
 
 - Project report contained in MekledPurkalMilestone.pdf
