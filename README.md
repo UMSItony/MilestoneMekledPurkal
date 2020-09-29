@@ -7,8 +7,8 @@
 - **Project report contained in [MekledPurkalMilestone.pdf](MekledPurkalMilestone.pdf)**
 - [Political Map of COVID-19 Cases and Deaths.html](http://umsitony.github.io/MilestoneMekledPurkal/source/Political%20Map%20of%20COVID-19%20Cases%20and%20Deaths.html) (interactive Plotly map of red/blue states and COVID-19 Cases/Deaths)
 - **source/**
-  - **[AnalysisVizMekledPurkal.ipynb](/source/AnalysisVizMekledPurkal.ipynb) (this is the "master" notebook where all data was joined together, analyzed, and visualized, NOTE: ONLY RUNS ON FULL YELP SOURCE DATA, see next for notebook that will run on sample files)**
-  - **[AnalysisViz_small_sample.ipynb](/source/AnalysisViz_small_sample.ipynb) (this is the "master" notebook where all data was joined togethere, analyzed, and visualized, NOTE: RUNS ON SAMPLE OF SOURCE DATA)**
+  - **[AnalysisVizMekledPurkal.ipynb](https://github.com/UMSItony/MilestoneMekledPurkal/blob/master/source/AnalysisVizMekledPurkal.ipynb) (this is the "master" notebook where all data was joined together, analyzed, and visualized, NOTE: ONLY RUNS ON FULL YELP SOURCE DATA, see next for notebook that will run on sample files)**
+  - **[AnalysisViz_small_sample.ipynb](https://github.com/UMSItony/MilestoneMekledPurkal/blob/master/source/AnalysisViz_small_sample.ipynb) (this is the "master" notebook where all data was joined togethere, analyzed, and visualized, NOTE: RUNS ON SAMPLE OF SOURCE DATA)**
   - COVID_sample.json (100-row sample of Yelp COVID-19 addendum dataset, available at http://www.yelp.com/dataset)
   - business_sample.json (100-row sample of Yelp business subset of Yelp Academic dataset, available at http://www.yelp.com/dataset)
   - cb_2018_us_state_20m.* (Census Bureau Cartographic Boundary Files, available at https://www.census.gov/geographies/mapping-files/times-series/geo/carto-boundary-file.html
