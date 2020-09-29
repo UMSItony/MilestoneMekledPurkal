@@ -5,7 +5,7 @@
 ### Fall 2020
 
 - **Project report contained in [MekledPurkalMilestone.pdf](MekledPurkalMilestone.pdf)**
-- Political Map of COVID-19 Cases and Deaths.html (interactive Plotly map of red/blue states and COVID-19 Cases/Deaths, also available at: https://drive.google.com/file/d/1PTGBkAYhMTG4hxPv9sUd5xyNq16yPLNn/view?usp=sharing)
+- [Political Map of COVID-19 Cases and Deaths.html](http://umsitony.github.io/MilestoneMekledPurkal/source/Political%20Map%20of%20COVID-19%20Cases%20and%20Deaths.html) (interactive Plotly map of red/blue states and COVID-19 Cases/Deaths)
 - **source/**
   - **[AnalysisVizMekledPurkal.ipynb](/source/AnalysisVizMekledPurkal.ipynb) (this is the "master" notebook where all data was joined together, analyzed, and visualized, NOTE: ONLY RUNS ON FULL YELP SOURCE DATA, see next for notebook that will run on sample files)**
   - **[AnalysisViz_small_sample.ipynb](/source/AnalysisViz_small_sample.ipynb) (this is the "master" notebook where all data was joined togethere, analyzed, and visualized, NOTE: RUNS ON SAMPLE OF SOURCE DATA)**
