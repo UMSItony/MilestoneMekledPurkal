@@ -1,3 +1,4 @@
+![Image of Most Frequent Words](https://github.com/UMSItony/MilestoneMekledPurkal/blob/master/source/wordcloud.PNG?raw=true)
 # Mekled & Purkal Milestone I Project
 ## Master of Applied Data Science
 ## University of Michigan School of Information
@@ -11,8 +12,7 @@
   - COVID_sample.json (100-row sample of Yelp COVID-19 addendum dataset, available at http://www.yelp.com/dataset)
   - business_sample.json (100-row sample of Yelp business subset of Yelp Academic dataset, available at http://www.yelp.com/dataset)
   - cb_2018_us_state_20m.* (Census Bureau Cartographic Boundary Files, available at https://www.census.gov/geographies/mapping-files/times-series/geo/carto-boundary-file.html
-  - WordCloud.ipynb (notebook for most frequent words visualization from Twitter social media analysis, Figure 1 in project report)
-  - Statistical Sentiment Analysis for Tweets-Final.ipynb (notebook for determining polarity/subjectivity of Tweets)
+  - Sentiment Analysis, Word Cloud and Choropleth Sample Notebook.ipynb (notebook for determining polarity/subjectivity of Tweets, most frequent word visualization: Figure 1)
   - statecolor.csv (data scraped from Red states and blue states, https://en.wikipedia.org/wiki/Red_states_and_blue_states for project report interactive Plotly Case/Count map)
   - case count and political affiliation.csv (source data for project report interactive Plotly Case/Count map)
   - state_orders.html (HTML scraped using BeautifulSoup package from https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic)
@@ -20,3 +20,6 @@
   - sbappptable.csv (raw tabular data extracted from government website PDF using tabula-py package)
   - TweetData-sample.csv (100-row sample of web-scraped COVID-19 Tweets donwloaded from Kaggle: https://www.kaggle.com/smid80/coronavirus-covid19-tweets Late March, https://www.kaggle.com/smid80/coronavirus-covid19-tweets-early-april Early April, https://www.kaggle.com/smid80/coronavirus-covid19-tweets-late-april Late April)
   - Tweet_Text_Sentiment_data_average.csv (Sentiment polarity/subjectivity data grouped by state)
+  - Case Count and Political Affiliation https://covid.cdc.gov/covid-data-tracker/#cases_totalcases combined with scrapped affiliation data
+  - Wordcloud.PNG export of Figure 1
+  - Choropleth percentages.png opening visualization from Tableau
